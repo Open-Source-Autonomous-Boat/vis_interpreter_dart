@@ -1,0 +1,3 @@
+[submodule "src/lib/VIS-Interpreter"]
+	path = src/lib/VIS-Interpreter
+	url = git@github.com:Open-Source-Autonomous-Boat/VIS-Interpreter.git

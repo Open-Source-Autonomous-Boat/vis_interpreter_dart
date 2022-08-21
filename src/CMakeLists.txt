@@ -3,10 +3,12 @@
 # the plugin to fail to compile for some customers of the plugin.
 cmake_minimum_required(VERSION 3.10)
 
-project(vis_interpreter_dart_library VERSION 0.0.1 LANGUAGES C)
+project(vis_interpreter_dart_library VERSION 0.0.1 LANGUAGES CXX)
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS on)
 
 add_library(vis_interpreter_dart SHARED
-  "vis_interpreter_dart.c"
+  "vis_interpreter_dart.cpp"
 )
 
 set_target_properties(vis_interpreter_dart PROPERTIES
@@ -14,4 +16,8 @@ set_target_properties(vis_interpreter_dart PROPERTIES
   OUTPUT_NAME "vis_interpreter_dart"
 )
 
-target_compile_definitions(vis_interpreter_dart PUBLIC DART_SHARED_LIB)
+target_link_libraries(vis_interpreter_dart VISL)
+
+add_subdirectory("./lib/VIS-Interpreter")
+
+target_compile_definitions(vis_interpreter_dart PUBLIC DART_SHARED_LIB VISL)
