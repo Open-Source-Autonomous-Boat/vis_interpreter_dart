@@ -6,6 +6,9 @@ cmake_minimum_required(VERSION 3.10)
 project(vis_interpreter_dart_library VERSION 0.0.1 LANGUAGES CXX)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS on)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "../out")
 
 add_library(vis_interpreter_dart SHARED
   "vis_interpreter_dart.cpp"

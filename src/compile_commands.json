@@ -1,77 +1,77 @@
 [
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src",
-  "command": "/usr/bin/c++  -DDART_SHARED_LIB -DVISL -Dvis_interpreter_dart_EXPORTS -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -o CMakeFiles/vis_interpreter_dart.dir/vis_interpreter_dart.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/vis_interpreter_dart.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/vis_interpreter_dart.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src",
+  "command": "/usr/bin/c++  -DDART_SHARED_LIB -DVISL -Dvis_interpreter_dart_EXPORTS -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++17 -o CMakeFiles/vis_interpreter_dart.dir/vis_interpreter_dart.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/vis_interpreter_dart.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/vis_interpreter_dart.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VIS-Interpreter.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VIS-Interpreter.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISCWrapper.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISCWrapper.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISFile.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISFile.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISParser.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISParser.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISTypes.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISTypes.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISUtils.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/VISUtils.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/test/main.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIE   -std=gnu++2a -o CMakeFiles/vis-tester.dir/src/test/main.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/VIS-Interpreter.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/VIS-Interpreter.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VIS-Interpreter.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISCWrapper.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISCWrapper.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISCWrapper.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISFile.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISFile.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISFile.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISParser.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISParser.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISParser.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISTypes.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISTypes.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISTypes.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISUtils.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/VISUtils.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/VISUtils.cpp"
 },
 {
-  "directory": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter",
-  "command": "/usr/bin/c++   -I/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src    -std=gnu++2a -o CMakeFiles/VISL.dir/src/test/main.cpp.o -c /home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp",
-  "file": "/home/troyd/Windows/Projects/osab/plugins/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp"
+  "directory": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter",
+  "command": "/usr/bin/c++   -I/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src  -fPIC   -std=gnu++2a -o CMakeFiles/VISL.dir/src/test/main.cpp.o -c /home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp",
+  "file": "/home/troyd/Projects/vis_interpreter_dart/src/lib/VIS-Interpreter/src/test/main.cpp"
 }
 ]
